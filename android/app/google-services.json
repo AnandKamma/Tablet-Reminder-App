@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756246121532",
+    "project_id": "tablet-reminder-app-111204",
+    "storage_bucket": "tablet-reminder-app-111204.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756246121532:android:b92079eb0d9f5497c7c739",
+        "android_client_info": {
+          "package_name": "com.anandkamma.tabletreminder.tablet_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756246121532-3k0f9ivgf78uhijft1tbdi7kgc7trf0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9r9vHlvLlJnohNHGQa92jRRCL7dWAXnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756246121532-3k0f9ivgf78uhijft1tbdi7kgc7trf0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
